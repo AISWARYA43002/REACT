@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "home page":"https://AISWARYA43002.github.io/REACT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
